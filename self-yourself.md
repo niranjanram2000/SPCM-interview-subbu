@@ -1,6 +1,6 @@
 Thanks for giving this oppurtunity to describe myself<br>
-myself XXX,  i am  from XXX, currently living in Bangalore location.<br>
-"I did my Gaduation from Gulbarga University in Jun2021<br>
+myself N.Niranjan,  i am  from andhra predesh, currently living in Bangalore location.<br>
+"I did my Gaduation from Dravidian University in Jun 2021<br>
 I worked on SMS Techsoft India ltd"<br>
 "i have around 4+ years of experience IT industry, specially into <br>
 oracle fusion supply chain modules as a functional consultant"<br>
