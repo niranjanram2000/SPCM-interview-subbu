@@ -104,3 +104,59 @@ AP_INVOICE_LINES_ALL
 
 <img width="1075" height="2672" alt="image" src="https://github.com/user-attachments/assets/6b215b7a-80d8-4776-81b1-bfbfd1e4525e" />
 
+### P2P సైకిల్
+
+P2P సైకిల్ ప్రారంభం
+P2P సైకిల్ requisition (అభ్యర్థన) సమర్పణతో ప్రారంభమవుతుంది. రెండు రకాల requisitionలు ఉంటాయి: Purchase Requisition మరియు Internal Requisition (Transfer Order). requisition సాధారణంగా వస్తువులు లేదా సేవలు కొనుగోలు చేయడానికి రైజ్ చేస్తారు. ఇది ఒక indent లేదా ఆ ఫార్మల్ రిక్వెస్ట్ లాంటిది. ఇంటర్నల్ స్టాక్ లేని సందర్భాల్లో Purchase Requisition రైజ్ చేస్తాం.
+
+అప్రూవల్ మరియు సోర్సింగ్
+Requisition రూపొందిన తర్వాత అది ఒక Approval Process ద్వారా వెళుతుంది (ఇది వివిధ రీతులుగా కాన్ఫిగర్ చేయవచ్చు). Requisition అప్రూవ్ అయిన తర్వాత, Approved Supplier List ఉంటే Standard Purchase Order (PO) నేరుగా క్రియేట్ చేయవచ్చు. Approved suppliers లేకపోతే negotiation ప్రారంభిస్తారు. ఈ కోసం Sourcing Module ఉపయోగిస్తారు — ఇక్కడ RFI (Request for Information), RFQ (Request for Quotation) లేదా auctions వంటి సెట్లు కాన్ఫిగర్ చేయవచ్చు.
+- RFI: సమాచారం కోసం — ధరలు, availability మొదలైనవి తెలుసుకోవడానికి.
+- RFQ: కోట్ కోసం రిక్వెస్ట్ — సరఫరాదారులు RFQని విశ్లేషించి ప్రతిస్పందిస్తారు; ప్రతిస్పందనను Quotation అంటారు.
+- RFQలు రకాలు: Single-stage RFQ, Two-stage RFQ, Surrogate Quote.
+Quotes (బహుళ సరఫరాదారుల నుండి వచ్చిన తర్వాత) sourcing టీమ్ వాటిని evaluate చేసి వ్యాపారానికి సరైనదాన్ని ఎంచుకుంటుంది — దీన్ని Quote Analysis అంటారు. Quote analysis తర్వాత Award ఇవ్వబడుతుంది, అంటే Purchase Order జారీ చేయబడుతుంది.
+
+Purchase Order రకాలు (Cloud లో)
+Cloudలో మూడు రకాల POలు ఉంటాయి: Standard Purchase Order, Blanket Purchase Agreement (BPA), Contract Purchase Agreement (CPA).
+- Standard Purchase Order: ఐటెమ్, quantity, price, need-by-date, terms & conditions — ఈ 5 అంశాలు తెలిసి ఒకసారి కోసం వస్తువులు/సేవలు కోరినప్పుడు వాడతాం. POలు కమర్షియల్ డాక్యుమెంట్స్ — సరఫరాదారుతో కొన్ని terms & conditionsకి అంగీకారం. POలు కూడా approvalsకి వెళ్తాయి; అప్రూవ్ అయిన తర్వాత PO PDFని సరఫరాదారుకు ఇష్యూ చేస్తాం.
+- Blanket Purchase Agreement (BPA): ఒక తేదీ పరిధి కోసం రేటు ఫిక్స్ చేయడం — rate contract award. అవసరమైనప్పుడు ఆ BPAకి releaseగా Standard PO చేయబడుతుంది. BPAలో line information ఉంటుంది. Negotiationలో Price Breaks (డిస్కౌంట్లు) కూడా సెట్ చేయవచ్చు — ఇవి రెండు రకాలుగా ఉంటాయి: Cumulative మరియు Non-cumulative.
+- Cumulative: అనేక releases చేయవచ్చు; releases కలిపి ఒక quantityకి చేరినప్పుడు discount వర్తిస్తుంది.
+- Non-cumulative: ప్రతి కొనుగోలు ఆ రేంజ్‌లో ఉంటేనే discount వర్తిస్తుంది.
+- Contract Purchase Agreement (CPA): ఇక్కడ కేవలం terms & conditionsకి ఒప్పందం ఉంటుంది; line లేదా shipment సమాచారం ఉండదు. CPAకి ఆధారంగా కావలసినప్పుడు Standard POని releaseగా చేస్తాం.
+
+Receiving (సరుకు స్వీకరణ) మరియు ASN
+PO సరఫరాదారులకు షేర్ చేసిన తర్వాత, సరఫరాదారులు ASN (Advanced Shipping Notice) పంపవచ్చు లేదా సరుకు నేరుగా పంపవచ్చు. సరుకులను మూడు routing methods ద్వారా స్వీకరిస్తాం:
+- Direct Delivery: సరుకు అందగానే sub-inventoryకి delivery transaction చేస్తాం.
+- Standard Receipt: ముందుగా receiving locationకి స్వీకరిస్తాం; తర్వాత sub-inventoryకి delivery/putaway చేస్తాం.
+- Inspection Required: receiving locationకి స్వీకరించి, QC (Quality Control) టీమ్ inspection చేస్తుంది. ఫలితం రెండు రకాలే: Accept లేదా Reject.
+- Accepted వస్తువులు sub-inventoryకి పంపబడతాయి.
+- Rejected వస్తువులు rejected sub-inventoryకి వెళ్తాయి లేదా Return to Vendor ప్రక్రియ ద్వారా తిరిగి పంపుతాం.
+
+Invoice Matching (ఇన్వాయిస్ మ్యాచ్)
+సరుకు స్వీకరించిన తర్వాత సరఫరాదారుని ఇన్వాయిస్ వస్తుంది. ఇన్వాయ్సులను వివిధ matching ఆప్షన్లతో మ్యాచ్ చేస్తాం:
+- 2-way matching: Invoice మరియు Purchase Order మాత్రమే మ్యాచ్.
+- 3-way matching: Purchase Order, Receipt (received quantity) మరియు Invoice quantity — మొత్తం 3 డాక్యుమెంట్లు మ్యాచ్.
+- 4-way matching: PO, Receiving, Inspection results మరియు Invoice — ఈ రూటింగ్ కోసం receiving రూట్ Inspection Required ఉండాలి.
+ఇన్వాయిస్ validate చేసి accounting చేసిన తర్వాత payment విడుదల చేస్తాం — single payment చేయవచ్చు లేదా payment process profile ద్వారా బల్క్‌గా రన్ చేయవచ్చు. చివరగా invoicing, payment process మరియు reconciliation జరుగుతాయి.
+
+P2P లైన్ మరియు హెడ్డర్ స్టేటస్‌లు
+Requisition Status: Incomplete → Pending Approval → Approved.
+PO Header/Line Status: Incomplete → Pending for Approval → Open → Closed for Receiving → Closed for Invoicing → Closed.
+
+P2P సైకిల్‌లో అకౌంటింగ్ ఎంట్రీస్
+- Requisition: అకౌంటింగ్ ఇంపాక్ట్ లేదు; కేవలం charge accounts default అవుతాయి.
+- Purchase Order: అకౌంటింగ్ ఇంపాక్ట్ లేదు; accounts default అవుతాయి.
+- During Receiving: Receiving Inspection Account డెబిట్; Accrual Account క్రెడిట్.
+- During Delivery / Putaway: Inventory Account డెబిట్; Receiving Inspection Account క్రెడిట్.
+- During Invoice: Accrual Account డెబిట్; Supplier Liability Account క్రెడిట్.
+- During Payment: Supplier Liability Account డెబిట్; Cash Account క్రెడిట్.
+
+సంబంధిత టేబుల్స్ (Oracle/Cloud టేబుల్స్)
+Requisition Tables: POR_REQUISITION_HEADERS_ALL; POR_REQUISITION_LINES_ALL; POR_REQ_DISTRIBUTIONS_ALL
+PO Tables: PO_HEADERS_ALL; PO_LINES_ALL; PO_LINE_LOCATIONS_ALL; PO_DISTRIBUTIONS_ALL; POZ_SUPPLIERS
+Receiving Tables: RCV_SHIPMENT_HEADERS; RCV_SHIPMENT_LINES
+Invoice Tables: AP_INVOICES_ALL; IBY_PAYMENT_METHODS; AP_TERMS; AP_INVOICE_LINES_ALL
+
+మీకు ఈ అనువాదం బాగా అర్థమైందా? అవసరమైతే ప్రతి స్టెప్‌కు సంబంధించిన ఫ్లోచార్ట్ లేదా చిన్న ఉదాహరణలతో మరింత సులభంగా వివరించగలను.
+
+
