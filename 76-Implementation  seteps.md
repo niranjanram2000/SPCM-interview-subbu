@@ -1,13 +1,13 @@
 https://itonlinehub.com/v2/oracle-project-implementation-support-process/
 
-Implementation types
+### Implementation types
 Types of Implementation:
 1. Fresh Implementation
 2. Rollout projects
 3. Up gradation Projects
 4. Supporting Projects
 5. Enhancement Project (Adding Modules)
-Implementation steps
+### Implementation steps
 1. Project Management Plan
 2. Kick off Meeting
 3. As Is Analysis
@@ -25,23 +25,23 @@ Implementation steps
 15. Go Live
 16. Parallel Run
 17. Post implementation Support
-##Implementation steps
+## Implementation steps
 ### 1. Project Management Plan:
 In this phase, Project Manager will create document called “PMP Document” with the details of project time frame, required resources and the total cost of the project.
 This document will be shared with client side steering committee members to get sign off that document.
 Manager will be shared this document with team members.
-## 2. Kick off Meeting:
+### 2. Kick off Meeting:
 In this phase introduction will be happen between the implementation team and the steering committee members nand super users of client side.
-## 3. As Is Analysis:
+### 3. As Is Analysis:
 In this phase implementation team will study and analyze the current process of the client business.
-## 4. As Is Document: 
+### 4. As Is Document: 
 This will be created with the current process analysis.
-## 5. To Be Document:
+### 5. To Be Document:
 In this document we will capture all the information how would be the future process of client on Oracle Apps.
 This document will be reviewed by steering committee of client and get signed off.
-## 6. Mapping:
+### 6. Mapping:
 Process of verify the customer requirement with Oracle Standard functionality is called “Mapping”.
-## 7. Gap:
+### 7. Gap:
 If any requirement is not available in the Oracle Standard functionality is called Gap.
 To fix the gap we have to do the following Gap Analysis to find out the best solution.
 Customization
@@ -49,7 +49,7 @@ Form Personalization
 Work Around
 Re engineering
 Enhancements
-Implementation steps
+## Implementation steps
 Customization: Developing new forms or Reports in Oracle Apps
 Form Personalization: Without writing any programs and coding we can modify some forms.
 Work around: Some process may not be required to do by customer, but he has to follow the process to complete the activity. For example: Zero payments and Petty cash.
