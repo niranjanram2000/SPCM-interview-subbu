@@ -1,9 +1,10 @@
 Inventory Transactions or movements
 
-By using inventory transactions we can increase or decrease the stock or we can move the stock different locations 
+By using inventory transactions
+we can increase or decrease the stock or we can move the stock different locations 
 We have different types of inventory transactions
-1. Miscellenouse transactions
-Miscellenouse transactions include transactions like Miscellenouse receipt, Miscellenouse issue, account alias receipt, account alia issues, etc
+### 1. Miscellenouse transactions
+ Miscellenouse transactions include transactions like Miscellenouse receipt, Miscellenouse issue, account alias receipt, account alia issues, etc
 Miscellenouse transactions are using for stock adjustment or initial stock load purpose
  issue  means decreasing the on hand
 receipt means increasing the on hand
@@ -12,14 +13,14 @@ miscellaneous transaction use to Load all on-hand items during Inventory Managem
 Issue items to individuals, departments, or projects,Receive items that were acquired without purchase orders,
  to post Counting adjustment And to Issue damaged items to expense accounts, such as scrap .
 
-2. Sub inventory transfer
+### 2. Sub inventory transfer
 
 "subinventory transfer is use to 
 transfer material within your current organization between subinventories, "
 "or between two locators within the same subinventory. 
 in sub inv transfer, there is no documantation support"
 
-3. movement request
+### 3. movement request
 "Movement requests are requests for the movement of material within an 
 inventory organization with document support"
 Document here is movement request pickslip report.
@@ -48,7 +49,7 @@ approval types  are automatic,job level, single approver,supervisor and approval
 Movement request transfer transaction type is use to subinventory transfter.
 Movement request issue transaction type is use to issue stock againt account.
 
-4. inter organisation transfer
+### 4. inter organisation transfer
 "Interorganization transfers enable you to transfer material between
  inventory organizations without creating any document."
 The items that you transfer must exist in both the source and destination organizations.
