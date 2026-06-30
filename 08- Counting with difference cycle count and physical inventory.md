@@ -1,35 +1,35 @@
-counting is also called as accuracy methods
+## counting is also called as accuracy methods
 
 in business we are going to count the stock on yearly basis, Quarterly or monthly basis.
-" we have to count what is the stock available in the warehouse & 
-what is the stock showing in the systems. there could be the difference"
+we have to count what is the stock available in the warehouse & 
+what is the stock showing in the systems. there could be the difference
 
 there are 2 types of counting
 physical counting
 cycle counting
 
-"Physical counting we performed for entire stock 
-we are going to count our entire stock once or twice in a year"
+Physical counting we performed for entire stock 
+we are going to count our entire stock once or twice in a year
 
 Cycle Counting – It’s called as a frequent counting we can perform very frequently 
 for the important items like daily, weekly for less important items monthly.
 "In cycle counting we can classify the items which item is very important, 
-less important based on that classification we make the counting."
+less important based on that classification we make the counting.
 
 physical  counting
 here first we create a physical inventory
-"u need to select that if you want to count all sub inventory or 
-a particular sub inventories that we need to count"
+u need to select that if you want to count all sub inventory or 
+a particular sub inventories that we need to count
 
 Approvals there are three types
 always, never, out of tolerance
 Always means If there is a deviation or no deviation always approval required
  Never means No Approval required
 "If out of tolerance  means we are excepting a deviation of +/- 5% 
-it will auto approve if more than 5% we need to approve it"
+it will auto approve if more than 5% we need to approve it
 
-"here in physical counting , tags are generated. 
-you need to provide the starting default tag number "
+here in physical counting , tags are generated. 
+you need to provide the starting default tag number 
 in real time, item number is a 12 digit alphanumeric number
 its not possible to remember all  those number 
 so we generate 3 or 4 digit number tag number
@@ -44,12 +44,12 @@ then run Generate Physical Inventory Tags for current system stock to generate t
 
 then run the program print physical inventory tag listing report
 by providing the organisation  and  physical inventory  details
-" this report  we send to the store keepers to count the stock in the warehouse and
+this report  we send to the store keepers to count the stock in the warehouse and
  ask them to send it back to us."
 after that we record the physical inventory tags in the system by the data provided by the storekeepers
 all the tags information, we need to enter manually. there is no fbdi or adfdi option available
 
-"then if the adjustments are within the tolerence.
+then if the adjustments are within the tolerence.
 it is auto approved. if it is out of tolerence it goes for approvals"
 if the snapshot qty and counted qty are within the adjustment tolerence you can approve
 or else you can reject the particular item counted qty
@@ -71,7 +71,7 @@ Steps of Cycle Counting
 
  we define the abc classification set, here you select the criteria like based on what you want to do the cycle count
 ex- current on hand qty, current item cost, current on hand value etc
-.
+
 once the program is succeeded  then you can see the abc classification set items
 then we define the abc classes based on the abc classification set items data
 after that we create the abc assignment group by assigning the classes and assigning the item to the classes
@@ -89,14 +89,14 @@ and you select if manual count is allowed or not
 "then you define the abc classes and abc items and 
 you provide information about how many counts can be done in a year "
 
-"if you want to include a particular item like most important, 
-you can include that in  counting always"
+if you want to include a particular item like most important, 
+you can include that in  counting always
 
 then we run the program generate count schedules
 this is for how many days the counting should happen
 the next program is generate count sequences - It’s nothing but day wise which items has to be counted
 last program  we run is print cycle count listing report, here we provide the org and cycle count details and submit
-"this cycle count listing report we send  it to the store kepper. 
+this cycle count listing report we send  it to the store kepper. 
 
 he will enter what is the qty available physically  with comments"
 "the items which we see is based on the scheduling, 
@@ -172,26 +172,7 @@ For cycle count :if adjustment is positive then
 Inventory valuation:db
 Offset:cr
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1397" height="496" alt="image" src="https://github.com/user-attachments/assets/299cf55f-9dcf-469f-a192-03d1081dc3a8" />
 
 ABC classification set
 ABC assignment group
@@ -206,7 +187,6 @@ in A class we can count yearly 200 times
 B classes we can 100
 C class 50
 then system will calculate and provide the list of items
-
 there is formalua 
 we have (A class * number of counts + B class * number counts + C class* Count) / number of working days
 yes
@@ -220,3 +200,5 @@ manage subinventories and locators is the configuration
 download the configuration 
 if there is no setup then we need to setup at least one subivnentory and then we can download 
 setups like manage subinevntory and lcoator setup  and then we can u
+
+
