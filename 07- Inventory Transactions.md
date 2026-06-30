@@ -2,7 +2,7 @@ Inventory Transactions or movements
 
 By using inventory transactions we can increase or decrease the stock or we can move the stock different locations 
 We have different types of inventory transactions
-### 1. Miscellenouse transactions
+1. Miscellenouse transactions
 Miscellenouse transactions include transactions like Miscellenouse receipt, Miscellenouse issue, account alias receipt, account alia issues, etc
 Miscellenouse transactions are using for stock adjustment or initial stock load purpose
  issue  means decreasing the on hand
@@ -12,14 +12,14 @@ miscellaneous transaction use to Load all on-hand items during Inventory Managem
 Issue items to individuals, departments, or projects,Receive items that were acquired without purchase orders,
  to post Counting adjustment And to Issue damaged items to expense accounts, such as scrap .
 
-### 2. Sub inventory transfer
+2. Sub inventory transfer
 
 "subinventory transfer is use to 
 transfer material within your current organization between subinventories, "
 "or between two locators within the same subinventory. 
 in sub inv transfer, there is no documantation support"
 
-### 3. movement request
+3. movement request
 "Movement requests are requests for the movement of material within an 
 inventory organization with document support"
 Document here is movement request pickslip report.
@@ -37,7 +37,7 @@ there are 4 kinds of movement request
 3. replenishment movement request (min max planning)
 4. job movement request(min max planning)
 
-##### steps in creating the movement request
+steps in creating the movement request
 
 1. create movement request
 2.  create picks i.e. generate pickslip report (based on the pickslip report, pickers will perform the transer of stock)
@@ -48,9 +48,8 @@ approval types  are automatic,job level, single approver,supervisor and approval
 Movement request transfer transaction type is use to subinventory transfter.
 Movement request issue transaction type is use to issue stock againt account.
 
-### 4. inter organisation transfer
-"Interorganization
- transfers enable you to transfer material between
+4. inter organisation transfer
+"Interorganization transfers enable you to transfer material between
  inventory organizations without creating any document."
 The items that you transfer must exist in both the source and destination organizations.
 on hand should be there in the source inventory to transfer to destination inventory
@@ -90,9 +89,4 @@ trade clearing CR
 movement request 
 transfer order
 these are the document number enabled
-
-for the subinevtnory and mis transaction we don’t have document numbers
-
-
-
-
+<img width="861" height="2130" alt="image" src="https://github.com/user-attachments/assets/78987138-46eb-4693-9061-9699d393f2f4" />
