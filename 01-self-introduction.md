@@ -1,7 +1,7 @@
 Thanks for giving this oppurtunity to describe myself<br>
 myself N.Niranjan,  i am  from andhra predesh, currently living in Bangalore location.<br>
 "I did my Gaduation from Dravidian University in Jun 2021<br>
-I worked on SMS Techsoft India ltd"<br>
+I worked on EXNER  India ltd"<br>
 "i have around 4+ years of experience IT industry, specially into <br>
 oracle fusion supply chain modules as a functional consultant"<br>
 i got a chance to work on different kind projects like implementation, support and enhancement projects<br>
