@@ -81,3 +81,56 @@ average cost<br>
 
 we have perpectaul average cost<br>
 <img width="1185" height="2294" alt="image" src="https://github.com/user-attachments/assets/3efdd8c9-10ba-4a85-872a-6cc8813bd860" /><br>
+
+### Telugu Translation
+************************
+
+గుడ్ మార్నింగ్. నన్ను నేను పరిచయం చేసుకోవడానికి ఈ అవకాశం ఇచ్చినందుకు ధన్యవాదాలు.
+
+నా పేరు ఎన్. నిరంజన్. నేను ఆంధ్రప్రదేశ్‌కు చెందినవాడిని. ప్రస్తుతం బెంగళూరులో నివసిస్తున్నాను.
+
+నేను జూన్ 2021లో ద్రావిడియన్ యూనివర్సిటీ నుంచి నా గ్రాడ్యుయేషన్ పూర్తి చేశాను. నేను గతంలో EXNER India Ltd.లో పనిచేశాను. నాకు IT ఇండస్ట్రీలో 4 సంవత్సరాలకు పైగా అనుభవం ఉంది. ముఖ్యంగా Oracle Fusion Supply Chain Management (SCM)లో Functional Consultant‌గా పనిచేశాను.
+
+నేను Implementation, Support, Enhancement వంటి వివిధ రకాల ప్రాజెక్టులలో పనిచేశాను. ప్రతి ప్రాజెక్ట్ అవసరాలను బట్టి వివిధ బాధ్యతలను నిర్వహించాను.
+
+**ఇప్పుడు నా Implementation Experience గురించి చెప్పాలంటే,**
+
+ముందుగా క్లయింట్ బిజినెస్ ప్రాసెస్‌ను అర్థం చేసుకోవడం, వాళ్లు ప్రస్తుతం తమ బిజినెస్‌ను ఎలా నిర్వహిస్తున్నారు, లెగసీ సిస్టమ్స్‌లో ఎలాంటి ప్రాసెస్‌లు ఉపయోగిస్తున్నారు అనే విషయాలను తెలుసుకోవడం నా బాధ్యతల్లో భాగంగా ఉండేది.
+
+ఆ తర్వాత Requirement Gathering Sessions‌లో పాల్గొని, బిజినెస్ యూజర్ల అవసరాలను అర్థం చేసుకోవడం, వాళ్లకు ఎదురవుతున్న ప్రధాన సమస్యలను గుర్తించడం, అవసరాలను డాక్యుమెంట్ చేయడం చేసేవాడిని.
+
+తర్వాత Fit-Gap Analysis నిర్వహించేవాళ్లం. అంటే క్లయింట్ అవసరాలను Oracle Fusionలో ఉన్న స్టాండర్డ్ ఫంక్షనాలిటీ ద్వారా తీర్చగలమా లేదా అదనపు సొల్యూషన్ అవసరమా అని విశ్లేషించేవాళ్లం.
+
+Fit-Gap Analysis పూర్తయిన తర్వాత, DS140 మరియు MD50 వంటి Functional Design Documents తయారుచేయడంలో సహకరించేవాడిని. అలాగే CRP Sessions నిర్వహించి, అప్లికేషన్ ఫంక్షనాలిటీ, యూజర్ ఇంటర్‌ఫేస్, బిజినెస్ ప్రాసెస్‌లను బిజినెస్ యూజర్లకు డెమో ద్వారా వివరించేవాడిని.
+
+అదేవిధంగా, Technical Team‌తో సమన్వయం చేసుకుంటూ అవసరమైన Test Data అందించడం, Functional Guidance ఇవ్వడం చేసేవాడిని. యూజర్లకు ట్రైనింగ్ ఇవ్వడం, User Manuals తయారుచేయడం, UAT అంటే User Acceptance Testing నిర్వహించడంలో కూడా పాల్గొనేవాడిని.
+
+Data Migration విషయానికి వస్తే, Master Data Management Team‌తో కలిసి పనిచేసేవాడిని. Data Templates తయారుచేయడం, Legacy System Owners‌తో సమన్వయం చేసుకోవడం, పాత సిస్టమ్‌లోని డేటా ఫీల్డ్స్‌ను Oracle Fusionలోని ఫీల్డ్స్‌తో మ్యాప్ చేయడం, Data Conversion Activities‌కు సహకరించడం వంటి పనులు చేసేవాడిని.
+
+అలాగే Implementation Documentation తయారుచేయడం, UAT Activities‌కు సంబంధించిన ఏర్పాట్లు చేయడం, Cutover Activities‌లో పాల్గొనడం, Production Go-Live సమయంలో సపోర్ట్ అందించడం కూడా నా బాధ్యతల్లో భాగంగా ఉండేవి.
+
+Production Go-Live తర్వాత Hypercare Support అందించేవాళ్లం. ఈ సమయంలో Data Migrationలో వచ్చిన సమస్యలు, కొంతమంది యూజర్లకు అవసరమైన Roles లేదా Access Permissions ఇవ్వకపోవడం వంటి సమస్యలను గుర్తించి పరిష్కరించేవాళ్లం. సిస్టమ్ స్థిరంగా పనిచేయడం ప్రారంభించిన తర్వాత ప్రాజెక్ట్ రెగ్యులర్ సపోర్ట్ దశకు వెళ్తుంది.
+
+**ఇప్పుడు నా Support Experience గురించి చెప్పాలంటే,**
+
+నేను Service Level Agreement (SLA) మరియు Ticket Priority ఆధారంగా Support Tickets‌ను నిర్వహించేవాడిని.
+
+నాకు టికెట్ అసైన్ అయిన తర్వాత, మొదట దాన్ని Acknowledge చేసి, బిజినెస్ యూజర్‌తో సంప్రదించి, వారికి ఎదురవుతున్న సమస్యను అర్థం చేసుకునేవాడిని.
+
+ఆ తర్వాత Root Cause Analysis చేసేవాడిని. అంటే సమస్యకు అసలు కారణం ఏమిటో తెలుసుకోవడానికి, Lower Environments‌లో అదే Scenario‌ను Reproduce చేసి విశ్లేషించేవాడిని.
+
+ఈమెయిల్ ద్వారా సమస్య పూర్తిగా అర్థం కాకపోతే, Microsoft Teams ద్వారా యూజర్‌తో కనెక్ట్ అయి, వారి సమస్యను ప్రత్యక్షంగా వివరించమని అడిగేవాడిని.
+
+సమస్యను పూర్తిగా అర్థం చేసుకున్న తర్వాత, Lower Instance‌లో అదే Scenario‌ను Reproduce చేసి, Root Cause‌ను గుర్తించి, తగిన Functional Solution అందించేవాడిని.
+
+యూజర్ ఇచ్చిన సొల్యూషన్‌తో సంతృప్తి చెందిన తర్వాత, ఆ టికెట్‌ను Close చేసేవాడిని.
+
+**నా Oracle Fusion SCM Functional Expertise గురించి చెప్పాలంటే,**
+
+నాకు Inventory Management, Purchasing, Self-Service Procurement, Sourcing, Supplier Portal, Distributed Order Orchestration, Order Management, Global Order Promising మరియు Pricing వంటి Oracle Fusion SCM Modules‌లో పరిజ్ఞానం మరియు అనుభవం ఉన్నాయి.
+
+ఇది నా ప్రొఫెషనల్ అనుభవం, ప్రాజెక్టులలో నా బాధ్యతలు మరియు నా Functional Expertise గురించి సంక్షిప్త పరిచయం.
+
+నాకు ఈ అవకాశం ఇచ్చినందుకు మరోసారి ధన్యవాదాలు.
+
+
