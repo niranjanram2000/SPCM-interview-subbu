@@ -137,28 +137,51 @@ Production Go-Live తర్వాత Hypercare Support అందించేవ
 MY self Introduction
 *********************
 Good afternoon!
-Thank you for giving me this opportunity to introduce myself.
-My name is N. Niranjan. I am from Andhra Pradesh, and I am currently living in Bangalore.
-I completed my graduation from Dravidian University in June 2021.
-I worked at Exmer India Ltd. and have around 4+ years of experience in the IT industry, especially in Oracle Fusion Supply Chain Management (SCM) as a Functional Consultant.
-I have worked on implementation, enhancement, and support projects. Depending on the project requirements, I have performed different sets of roles and responsibilities from project to project.
-My Implementation Experience
-First, we understand the client's business processes, how they are currently running their business, and what kind of processes they are using. Understanding these processes is one of our key responsibilities.
-We participate in requirement-gathering sessions to understand business users' needs and identify the issues they are facing. Based on their requirements, we prepare the necessary documents.
-We also conduct fit-gap analysis. This means analyzing whether the standard Oracle Fusion functionality can fulfill the client's requirements or whether additional solutions are needed.
-After completing the fit-gap analysis, we prepare functional design documents such as DS140 and MD50.
-We also conduct CRP (Conference Room Pilot) sessions and explain the application's functionality and user interface to business users. We provide demos to help them understand how the application works.
-At the same time, we communicate with the technical team, provide test data when required, and give functional guidance.
-We also provide training to business users, prepare user manuals, and participate in UAT (User Acceptance Testing).
-Data Migration Experience
-When it comes to data migration, we work with the Master Data Management team to prepare data templates.
-We coordinate with legacy system owners and map the old system's data fields to the corresponding Oracle Fusion fields.
-We also assist with data conversion activities.
-Implementation and Go-Live Activities
-We prepare implementation documentation, conduct UAT activities, participate in cutover activities, and provide support during production go-live.
-After production go-live, we provide hypercare support and resolve issues related to data migration and user access permissions.
-Once the implementation and hypercare activities are completed, the project moves into the support phase.
-My Support Experience
-When it comes to my support experience, I handle Service Level Agreement (SLA) requirements and provide ticket-priority-based support.
+Thank you for giving me this opportunity to introduce myself.<br>
+My name is N. Niranjan. I am from Andhra Pradesh, and I am currently living in Bangalore.<br>
+I completed my graduation from Dravidian University in June 2021.<br>
+I worked at Exmer India Ltd. and have around 4+ years of experience in the IT industry, <br>
+especially in Oracle Fusion Supply Chain Management (SCM) as a Functional Consultant.<br>
+I have worked on implementation, enhancement, and support projects. Depending on the project requirements,<br>
+I have performed different sets of roles and responsibilities from project to project.<br>
 
+My Implementation Experience<br>
+First, we understand the client's business processes, how they are currently running their business,<br>
+and what kind of processes they are using. Understanding these processes is one of our key responsibilities.<br>
 
+We participate in requirement-gathering sessions to understand business users' needs and identify the issues they are facing.<br>
+Based on their requirements, we prepare the necessary documents.<br>
+
+We also conduct fit-gap analysis. This means analysing whether the standard Oracle Fusion functionality can fulfill the client's requirements or<br>
+whether additional solutions are needed.<br>
+After completing the fit-gap analysis, we prepare functional design documents such as DS140 and MD50.<br>
+We also conduct CRP (Conference Room Pilot) sessions and explain the application's functionality and user interface to business users.<br>
+We provide demos to help them understand how the application works.<br>
+At the same time, we communicate with the technical team, provide test data when required, and give functional guidance.<br>
+We also provide training to business users, prepare user manuals, and participate in UAT (User Acceptance Testing).<br>
+Data Migration Experience<br>
+When it comes to data migration, we work with the Master Data Management team to prepare data templates.<br>
+We coordinate with legacy system owners and map the old system's data fields to the corresponding Oracle Fusion fields.<br>
+We also assist with data conversion activities.<br>
+Implementation and Go-Live Activities<br>
+
+We prepare implementation documentation, conduct UAT activities, participate in cutover activities, and provide support during production go-live.<br>
+After production go-live, we provide hypercare support and resolve issues related to data migration and user access permissions.<br>
+Once the implementation and hypercare activities are completed, the project moves into the support phase.<br>
+
+My Support Experience<br>
+When it comes to my support experience, I handle Service Level Agreement (SLA) requirements and provide ticket-priority-based support.<br>
+After Ticket is Assign ,first we acknowledge ,then we contact with business users ,and we understand the issues their facing  .<br>
+
+then we do root cause analysis, for  identifying the resoun for the issue we do  reproduce in lower instence<br>
+if i can't understand through e-mail  , we connact to zoom call in microsoft-teams  and directly discouss about the problom they are faceing
+
+once we understand the problem , in lower instance we reproduce same scenario  then identify the Root Cause‌ ,we give resonable functional soluction  <br>
+
+if the user satisfy with our solution ,we close the ticket .<br>
+
+when it come to my  Oracle Fusion SCM Functional Expertise<br>
+i have good experience in oracle scm fusion modules like  Inventory Management, Purchasing, Self-Service Procurement, Sourcing,<br> Supplier Portal, Distributed Order Orchestration, Order Management, Global Order Promising and pricing .<br>
+
+this is about my profile experience and projects responsibility's in my Functional Expertise <br>
+once again thank you for giving this opertunity.<br>
