@@ -1,4 +1,5 @@
 Thanks for giving this oppurtunity to describe myself<br>
+
 myself N.Niranjan,  i am  from andhra predesh, currently living in Bangalore location.<br>
 "I did my Gaduation from Dravidian University in Jun 2021<br>
 I worked on EXNER  India ltd"<br>
@@ -6,6 +7,7 @@ I worked on EXNER  India ltd"<br>
 oracle fusion supply chain modules as a functional consultant"<br>
 i got a chance to work on different kind projects like implementation, support and enhancement projects<br>
 i have handled different set of roles and responsibilities project to project <br>
+
 when it comes to my implementation Experence ,
 my roles were understanding the process of their business, <br>
 business flows , how they are running there business in  systems<br>
