@@ -134,4 +134,31 @@ Production Go-Live తర్వాత Hypercare Support అందించేవ
 
 నాకు ఈ అవకాశం ఇచ్చినందుకు మరోసారి ధన్యవాదాలు.
 
+MY self Introduction
+*********************
+Good afternoon!
+Thank you for giving me this opportunity to introduce myself.
+My name is N. Niranjan. I am from Andhra Pradesh, and I am currently living in Bangalore.
+I completed my graduation from Dravidian University in June 2021.
+I worked at Exmer India Ltd. and have around 4+ years of experience in the IT industry, especially in Oracle Fusion Supply Chain Management (SCM) as a Functional Consultant.
+I have worked on implementation, enhancement, and support projects. Depending on the project requirements, I have performed different sets of roles and responsibilities from project to project.
+My Implementation Experience
+First, we understand the client's business processes, how they are currently running their business, and what kind of processes they are using. Understanding these processes is one of our key responsibilities.
+We participate in requirement-gathering sessions to understand business users' needs and identify the issues they are facing. Based on their requirements, we prepare the necessary documents.
+We also conduct fit-gap analysis. This means analyzing whether the standard Oracle Fusion functionality can fulfill the client's requirements or whether additional solutions are needed.
+After completing the fit-gap analysis, we prepare functional design documents such as DS140 and MD50.
+We also conduct CRP (Conference Room Pilot) sessions and explain the application's functionality and user interface to business users. We provide demos to help them understand how the application works.
+At the same time, we communicate with the technical team, provide test data when required, and give functional guidance.
+We also provide training to business users, prepare user manuals, and participate in UAT (User Acceptance Testing).
+Data Migration Experience
+When it comes to data migration, we work with the Master Data Management team to prepare data templates.
+We coordinate with legacy system owners and map the old system's data fields to the corresponding Oracle Fusion fields.
+We also assist with data conversion activities.
+Implementation and Go-Live Activities
+We prepare implementation documentation, conduct UAT activities, participate in cutover activities, and provide support during production go-live.
+After production go-live, we provide hypercare support and resolve issues related to data migration and user access permissions.
+Once the implementation and hypercare activities are completed, the project moves into the support phase.
+My Support Experience
+When it comes to my support experience, I handle Service Level Agreement (SLA) requirements and provide ticket-priority-based support.
+
 
