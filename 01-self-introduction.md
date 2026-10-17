@@ -6,10 +6,11 @@ I worked on EXNER  India ltd"<br>
 oracle fusion supply chain modules as a functional consultant"<br>
 i got a chance to work on different kind projects like implementation, support and enhancement projects<br>
 i have handled different set of roles and responsibilities project to project <br>
-when it comes to implementation, my roles were understanding the process of their business, <br>
-business flows , how they are running there business in legacy systems<br>
+when it comes to my implementation Experence ,
+my roles were understanding the process of their business, <br>
+business flows , how they are running there business in  systems<br>
 
-going deep dive into the  session, doing the requirement gathering, Identify <br>
+going deep dive into the  session, we do  requirement gathering, Identifying  <br>
 what are their key pain areas , requirement capturing and all those requirements.<br>
 and then doing the fit gap analysis, what ever the requirement  i got is a fit or gap <br>
 once we finalize the fit gap analysis, we will process the solution to the  DS140 and MD50 documents and <br>
