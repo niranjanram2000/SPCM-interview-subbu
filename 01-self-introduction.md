@@ -51,14 +51,26 @@ if they are ok with the solution we will close the ticket<br>
  sourcing, supplier portal, distributed order orchestration or order management, global order promising, and pricing"<br>
 that’s all about my self. Thanks again for giving this oppurtunity to describe myself<br>
 
+Project 1: Oracle Fusion SCM Transformation<br>
+Client: Bombardier<br>
+Engagement Type: End-to-End Implementation & Support<br>
+Role: Functional Consultant | Jan 2024 – Present<br>
 
-PROJECT-1: Oracle Fusion Implementation  ---- Client ( Abbott Laboratories, USA) - : Sep -23 to Dec 2024<br>
-PROJECT-2: Oracle Fusion Implementation ---- Client (Poppin) -  duration Jan -22 to Sep 23.<br>
-PROJECT-3: Oracle Fusion Implementation and Supporting - Client (Ryerson) - Aug ’2020 to Dec ’2021<br>
-PROJECT-4: Oracle Fusion Support and Enhancement - Client (Texas Instruments) - Apr’ 19 to Jul 20<br>
-PROJECT-5: Home Entertainment for Capgemini - Jan ‘17 to Mar ’20.   <br>
-PROJECT-6: MAGIC for Capgemini( NBC Univerasal ) - Jun 13 to Dec 2016<br> 
-PROJECT-7: MGM Resort International - Jan 2012 to May 2013<br>
+Project 2: Oracle Fusion SCM Implementation<br>
+Client: ASML<br>
+Engagement Type: End-to-End Implementation<br>
+Role: Functional Consultant | Aug 2023 – Jan 2024<br>
+
+Project 3: Oracle Fusion SCM Implementation<br>
+Client: Cummins Inc<br>
+Engagement Type: Implementation (Data Migration & Procurement Focus)<br>
+Role: SCM Functional Associate| Apr 2022 – Jun 2023<br>
+
+ Project 4: Oracle Fusion SCM Support & Enhancements<br>
+Client: Celestica<br>
+Engagement Type: Production Support & Continuous Improvements<br>
+Role: SCM Functional Associate| Aug 2021 – Mar 2022<br>
+
 
 
 medical equipment manufacturing and distributions<br>
